@@ -19,10 +19,9 @@ Projet réalisé par:
 |=== 
 | Nom | Rôle 
 
-| https://github.com/HugoTHOLLON[Luna Kalaoun] | Chef de projet  
-| https://github.com/KilianDemangel[Issiakhem Malik] | Développeur BackEnd et Gestion Github  
-| https://github.com/RomainGrassaudPicoreau[Diarra Hassane Junior] |  Développeur FrontEnd
-| https://github.com/ElPoraz[Leroy Grimaldi] |  Développeur 
+| https://github.com/Luna1904[Luna Kalaoun] | Chef de projet & Gestion des rôles  
+| https://github.com/MalikIssiakhem[Issiakhem Malik] | Développeur Back-End & Architecture  
+| https://github.com/Hassane-byte[Diarra Hassane Junior] | Développeur Front-End & Intégration
 |===
 
 

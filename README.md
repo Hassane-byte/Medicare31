@@ -18,6 +18,7 @@ Stack : **FastAPI + PostgreSQL + Nginx + Vanilla JS**, orchestré avec **Docker 
 9. [Frontend](#9-frontend)
 10. [Variables d'environnement](#10-variables-denvironnement)
 11. [Lancer le projet](#11-lancer-le-projet)
+12. [Équipe & Contributeurs](#12-équipe--contributeurs)
 
 ---
 
@@ -568,3 +569,17 @@ Au premier démarrage, le backend :
 2. Insère les 4 rôles par défaut (`patient`, `medecin`, `secretariat`, `admin`)
 
 Aucune migration manuelle n'est nécessaire.
+
+---
+
+## 12. Équipe & Contributeurs
+
+Ce projet a été conçu et développé en collaboration par une équipe de 3 personnes :
+
+| Membre | Rôle principal | Profil GitHub |
+|---|---|---|
+| **Luna Kalaoun** | Chef de projet & Gestion des rôles / Authentification | [@Luna1904](https://github.com/Luna1904) |
+| **Malik Issiakhem** | Développeur Back-End, Architecture & Base de données | [@MalikIssiakhem](https://github.com/MalikIssiakhem) |
+| **Hassane Diarra** | Développeur Front-End & Intégration UI / Services | [@Hassane-byte](https://github.com/Hassane-byte) |
+
+> 💡 **Historique Git :** L'ensemble des contributions, commits et revues de code est intégralement préservé dans l'arborescence Git (`git log`).
